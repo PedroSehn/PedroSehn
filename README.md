@@ -1,6 +1,6 @@
 ### Olá, humanos, reptilianos e inteligencias artificiais 👋
-  Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.
-  Meus projetos estão meio bagunçados no momento, mas eu prometo que eu vou organizar eles assim que possivel 😅.
+  Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
+  Meus projetos estão meio bagunçados no momento, mas eu prometo que eu vou organizar eles assim que possivel 😅.<br>
   #trybeMeContrata🥰
   
 <!--
