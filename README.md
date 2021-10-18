@@ -1,6 +1,7 @@
 ### Olá, humanos, reptilianos e inteligencias artificiais 🖖
   Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
- No momento estou desenvolvendo meu portifolio, em um futuro proximo estarão pinados aqui os projetos em que estou trabalhando.<br>
+  Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.<br>
+  Notou algo em que eu posso melhorar no meu codigo? Não deixe de mandar sua dica! 😁<br>
  
  <div align="center">
   <a href="https://github.com/PedroSehn">
