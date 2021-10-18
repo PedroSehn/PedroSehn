@@ -1,6 +1,12 @@
 ### Olá, humanos, reptilianos e inteligencias artificiais 🖖
   Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
  No momento estou desenvolvendo meu portifolio, em um futuro proximo estarão pinados aqui .<br>
+ 
+ <div align="center">
+  <a href="https://github.com/PedroSehn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   
   <div style="display: inline_block"><br>
