@@ -2,13 +2,13 @@
   Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
   Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.<br>
   Notou algo em que eu posso melhorar no meu codigo? Não deixe de mandar sua dica! 😁<br>
- 
+ <div>
  <div align="center">
   <a href="https://github.com/PedroSehn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  </div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
