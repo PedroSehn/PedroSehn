@@ -1,4 +1,4 @@
-### Olá, humanos, reptilianos e inteligencias artificiais 🖖
+### <h1 align="center">Olá, humanos, reptilianos e inteligencias artificiais 🖖</h1>
   Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
   Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.<br>
   Notou algo em que eu posso melhorar no meu codigo? Não deixe de mandar sua dica! 😁<br>
