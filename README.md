@@ -18,8 +18,7 @@
     <img align="center" alt="Pedro-Jest" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
   </div>
-  ##
-
+  
   <div>
     <p align="center"> 
       Visitor count<br>
