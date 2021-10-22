@@ -19,12 +19,7 @@
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
   </div>
   
-  <div>
-    <p align="center"> 
-      Visitor count<br>
-      <img src="https://profile-counter.glitch.me/PedroSehn/count.svg" />
-    </p>
-  </div>
+  
  ##
   <div> 
     <a href="https://www.instagram.com/pedro.shu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
