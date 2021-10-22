@@ -16,7 +16,6 @@
     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Pedro-Jest" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
-    <img align="center" alt="Pedro-SQL" height="30"   width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/sql.png" />
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
   </div>
   
