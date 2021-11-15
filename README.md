@@ -26,4 +26,5 @@
     <a href = "mailto:pedrorsehn@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pedro-rogowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  <h3>Atualmente estudando tecnicas de CSS e SASS, além de Docker e MongoDB.</h3>
+  ---
+  <h3 align="center" >Atualmente estudando tecnicas de CSS e SASS, além de Docker e MongoDB.</h3>
