@@ -1,6 +1,8 @@
 ### <h1 align="center">Olá, humanos, reptilianos e inteligências artificiais! 🖖</h1>
-  Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.<br>
-  Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.<br>
+  <div align="center">
+  <p>Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack</p>.<br>
+  <p>Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.</p><br>
+  </div>
   <br>
   <div>
     <div align="center">
@@ -22,6 +24,7 @@
     <img align="center" alt="Pedro-NodeJS" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="Pedro-Linux" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
     <img align="center" alt="Pedro-mongoDB" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+    <img align="center" alt="Pedro-Godot" height="40" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" />
   </div>
   
 ##
