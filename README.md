@@ -17,9 +17,11 @@
     <img align="center" alt="Pedro-CSS" height="30" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Pedro-Jest" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/jest.png" />
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
-    <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/docker.png" />
-    <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mysql.png" />
-    <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Pedro-Docker" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+    <img align="center" alt="Pedro-mySql" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Pedro-NodeJS" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Pedro-Linux" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+    <img align="center" alt="Pedro-mongoDB" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
   </div>
   
 ##
