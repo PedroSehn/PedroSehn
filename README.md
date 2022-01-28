@@ -1,9 +1,10 @@
 ### <h1 align="center">Olá, humanos, reptilianos e inteligências artificiais! 🖖</h1>
+  
   <div align="center">
-  <p>Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.</p><br>
+  <p>Eu sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.</p>
   <p>Atualmente desenvolvendo projetos pare enrriquecer meu portfolio.</p><br>
   </div>
-  <br>
+  
   <div>
     <div align="center">
       <a href="https://github.com/PedroSehn">
