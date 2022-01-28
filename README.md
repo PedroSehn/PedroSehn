@@ -19,7 +19,7 @@
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png" />
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/docker.png" />
     <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/mysql.png" />
-    <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/nodejs.png" />
+    <img align="center" alt="Pedro-GitHub" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
   </div>
   
 ##
