@@ -36,4 +36,3 @@
     <a href="https://www.linkedin.com/in/pedro-rogowski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
-  <h3 align="center" >Atualmente estudando tecnicas de CSS e SASS, além de Docker e MongoDB.</h3>
