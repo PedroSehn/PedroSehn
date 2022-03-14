@@ -1,7 +1,7 @@
 ### <h1 align="center">Olá, humanos, reptilianos e inteligências artificiais! 🖖</h1>
   
   <div align="center">
-  <p>Sou Pedro, desenvolvedor Front End, no momento estudando Back End, rumo ao fullstack.</p>
+  <p>Sou Pedro, desenvolvedor Fullstack.</p>
   <p>Atualmente desenvolvendo projetos pare enriquecer meu portfólio.</p><br>
   </div>
   
