@@ -32,6 +32,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+  ![dotenv](https://img.shields.io/badge/.ENV-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 - 🐙 &nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -46,8 +47,8 @@
 <br/>
 <p align="center">
     <a href="https://github.com/AVS1508" >
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=dark&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=dark&layout=compact" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=shades-of-purple&layout=compact" />
     </a>
 </p>
 <br/>
