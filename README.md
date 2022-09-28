@@ -40,12 +40,12 @@
   ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 <br/>
-
-<a href="https://github.com/AVS1508" >
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=buefy&show_icons=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=buefy&layout=compact" />
-</a>
-
+<p align="center">
+    <a href="https://github.com/AVS1508" >
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=buefy&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=buefy&layout=compact" />
+    </a>
+</p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Contatos </h3>
