@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif">
 
 <h2 align="center"> Opa! Prazer, sou Pedro.</h2>
 
