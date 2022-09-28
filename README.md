@@ -46,8 +46,8 @@
 <br/>
 <p align="center">
     <a href="https://github.com/AVS1508" >
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=dark&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=dark&layout=compact" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=shades-of-purple&layout=compact" />
     </a>
 </p>
 <br/>
@@ -55,10 +55,8 @@
 
 <h3 align="center"> 🤝🏻 &nbsp;Contatos </h3>
 <p align="center">
-<a target="_blank" href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Site%20Pessoal-pedrosehn.github.io/Portifolio2022-%230077B5.svg?style=flat&logo=googlechrome&logoColor=white"></a>
+<a target="_blank" href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Site%20Pessoal-pedrosehn.github.io/Portifolio2022-important.svg?style=flat&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedrosehn/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pedro.shu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
 <a href="https://wa.me/5551984574823"><img alt="Instagram" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
-
-
