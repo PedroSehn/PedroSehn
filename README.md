@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Opa! Prazer, sou Pedro.</h2>
+<h2 align="center"> Opa! Prazer, sou Pedro.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
@@ -42,8 +42,8 @@
 <br/>
 <p align="center">
     <a href="https://github.com/AVS1508" >
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=buefy&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=buefy&layout=compact" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=shades-of-purple&layout=compact" />
     </a>
 </p>
 <br/>
