@@ -51,11 +51,11 @@
 </p>
 <br/>
 
-<p align="center">
-<h3> 🤝🏻 &nbsp;Contatos </h3>
+
+<h3 align="center"> 🤝🏻 &nbsp;Contatos </h3>
 
 <a target="_blank" href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Website-%9558B2.svg?style=for-the-badge&%22"></a>
 <a href="https://www.linkedin.com/in/pedrosehn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/pedro.shu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</p>
+
 
