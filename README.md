@@ -44,7 +44,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/AVS1508" >
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
+      <img height="180em" magin-right="25px"src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=shades-of-purple&layout=compact" />
     </a>
 </p>
