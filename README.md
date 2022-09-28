@@ -1,7 +1,7 @@
 
 <h2 align="center"> 
     <p>Opa! Prazer, sou Pedro.</p>
-    <img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif">
+    <img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif" style="pointer-events: none">
 </h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
