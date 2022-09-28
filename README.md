@@ -26,6 +26,7 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - 🛢 &nbsp;
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,16 +45,16 @@
 <br/>
 <p align="center">
     <a href="https://github.com/AVS1508" >
-      <img height="180em" magin-right="25px"src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSehn&theme=shades-of-purple&show_icons=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSehn&theme=shades-of-purple&layout=compact" />
     </a>
 </p>
 <br/>
 
-<h3> 🤝🏻 &nbsp;Contatos </h3>
+<p align="center">
+    <h3> 🤝🏻 &nbsp;Contatos </h3>
 
-<p>
-<a href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Website-%9558B2.svg?style=for-the-badge&%22"></a>
-<a href="https://www.linkedin.com/in/pedrosehn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/pedro.shu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a target="_blank" href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Website-%9558B2.svg?style=for-the-badge&%22"></a>
+    <a href="https://www.linkedin.com/in/pedrosehn/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/pedro.shu/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </p>
