@@ -32,7 +32,7 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-  ![dotenv](https://img.shields.io/badge/.ENV-%234ea94b.svg?style=flat&logo=#ECD53F&logoColor=white)
+  ![dotenv](https://img.shields.io/badge/.ENV-%234ea94b.svg?style=flat&logo=dotenv&logoColor=white)
 - 🐙 &nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
