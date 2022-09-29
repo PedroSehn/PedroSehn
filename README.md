@@ -15,7 +15,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - <h4> Linguagens </h4>
-  <img src='https://img.shields.io/badge/python-3670A0??style=for-the-badge&logo=appveyor&logo=python&logoColor=ffdd54' alt='python'/>
+  <img src='https://img.shields.io/badge/python-3670A0??style=flat&logo=appveyor&logo=python&logoColor=ffdd54' alt='python'/>
   <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white' alt='java'/>
   <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white' alt='docker'/>
   
