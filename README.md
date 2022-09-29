@@ -43,7 +43,7 @@
 - <h4> Sistemas </h4>
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' alt='Windows'/>
   <img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white' alt='Ubuntu'/>
-  <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white' alt='Pop!\_OS'/>
+  <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white' alt='Pop!\_OS'/>
 
 <br/>
 <p align="center">
