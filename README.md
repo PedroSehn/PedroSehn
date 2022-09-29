@@ -5,10 +5,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando desenvolvimento web e mobile enquanto bebo café.
-- 🎓 &nbsp; Atualmente, estudando desenvolvimento web fullstack na Trybe.
-- 💼 &nbsp; Trabalhando em projetos pessoais que podem ser encontrados nesse github.
-- 🌱 &nbsp; Aprendendo sobre Sequelize e React.
+- 🤔 &nbsp; Explorando desenvolvimento web e mobile;
+- 🎓 &nbsp; Atualmente, estudando desenvolvimento web fullstack na Trybe;
+- 💼 &nbsp; Trabalhando em projetos pessoais que podem ser encontrados nesse github;
+- 🌱 &nbsp; Aprendendo sobre Sequelize e React;
 - ✍️ &nbsp; Em busca de uma vaga de desenvolvedor front-back end ou fullstack Junior.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
