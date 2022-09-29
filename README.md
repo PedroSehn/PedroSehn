@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando desenvolvimento web e mobile enquanto bebo café com meu gato no colo.
+- 🤔 &nbsp; Explorando desenvolvimento web e mobile enquanto bebo café.
 - 🎓 &nbsp; Atualmente, estudando desenvolvimento web fullstack na Trybe.
 - 💼 &nbsp; Trabalhando em projetos pessoais que podem ser encontrados nesse github.
 - 🌱 &nbsp; Aprendendo sobre Sequelize e React.
