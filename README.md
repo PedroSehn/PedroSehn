@@ -34,15 +34,15 @@
   <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white' alt='MongoDB'/>
   <img src='https://img.shields.io/badge/.ENV-%234ea94b.svg?style=flat&logo=dotenv&logoColor=white' alt='dotenv'/>
 - 🐙 &nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  <img src='https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white' alt='Git'/>
+  <img src='https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white' alt='GitHub'/>
 - 📟 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
+  <img src='https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white' alt='Visual Studio'/>
+  <img src='https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white' alt='Eclipse'/>
 - 🤖 &nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)
+  <img src='https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white' alt='Windows'/>
+  <img src='https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white' alt='Ubuntu'/>
+  <img src='https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white' alt='Pop!\_OS'/>
 
 <br/>
 <p align="center">
