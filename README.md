@@ -54,7 +54,7 @@
 <br/>
 
 
-<h3 align="center"> 🤝🏻 &nbsp;Contatos </h3>
+<h2 align="center"> Contatos </h2>
 <p align="center">
 <a target="_blank" href="https://pedrosehn.github.io/Portifolio-2022/"><img alt="Website" src="https://img.shields.io/badge/Site%20Pessoal-pedrosehn.github.io/Portifolio2022-important.svg?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/pedrosehn/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
