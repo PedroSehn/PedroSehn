@@ -1,8 +1,5 @@
-
-<h2 align="center"> 
-    <p>Olá! Sou o Pedro!</p>
-</h2>
-    <img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif">
+<h1>Olá! Sou o Pedro!</h1>
+<img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif">
 
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
