@@ -1,6 +1,6 @@
 
 <h2 align="center"> 
-    <p>Opa! Seja bem-vindo, sou Pedro!</p>
+    <p>Opa! Prazer, sou Pedro.</p>
     <img src="https://uploads-ssl.webflow.com/59e7cc1c17dc6c00018dca35/59ed44ba36e5a00001691bce_hi.gif">
 </h2>
 
@@ -14,28 +14,28 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 👨🏻‍💻 &nbsp;
-  <img src='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54'/>
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+- 👨‍💻 &nbsp;
+  <img src='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54' alt='python'></img
+  <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white' alt='java'/>
+  <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white' alt='docker'/>
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white' alt='html5'/>
+  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white' alt='css3'/>
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E' alt='javascript'/>
+  <img src='https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white' alt='node'/>
+  <img src='https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB' alt='react'/>
+  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white' alt='SASS'/>
 - ✔️ &nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat&logo=jest&logoColor=white)
-  ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
+  <img src='https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white' alt='Jest'/>
+  <img src='https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white' alt='Mocha'/>
 - 📚 &nbsp;
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-  ![dotenv](https://img.shields.io/badge/.ENV-yellow.svg?style=flat&logo=dotenv&logoColor=white)
+  <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white' alt='Sequelize'/>
+  <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white' alt='MySQL'/>
+  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white' alt='MongoDB'/>
+  <img src='https://img.shields.io/badge/.ENV-%234ea94b.svg?style=flat&logo=dotenv&logoColor=white' alt='dotenv'/>
 - 🐙 &nbsp;
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 - 📟 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
