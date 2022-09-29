@@ -15,7 +15,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 👨🏻‍💻 &nbsp;
-  <img src='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54'></img
+  <img src='https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54'/>
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 - 🌐 &nbsp;
