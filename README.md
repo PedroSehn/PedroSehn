@@ -33,7 +33,7 @@
 
 - <h4> Back-end </h4>
   <img src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white' alt='docker'/>
-  <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=blue' alt='Sequelize'/>
+  <img src='https://img.shields.io/badge/Sequelize-76b5c5?style=for-the-badge&logo=Sequelize&logoColor=blue' alt='Sequelize'/>
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'/>
   <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
   <img src='https://img.shields.io/badge/.ENV-yellow.svg?style=for-the-badge&logo=dotenv&logoColor=white' alt='dotenv'/>
