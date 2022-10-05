@@ -36,7 +36,7 @@
   <img src='https://img.shields.io/badge/Sequelize-76b5c5?style=for-the-badge&logo=Sequelize&logoColor=blue' alt='Sequelize'/>
   <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'/>
   <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/>
-  <img src='https://img.shields.io/badge/.ENV-0D1117.svg?style=for-the-badge&logo=dotenv&logoColor=yellow' alt='dotenv'/>
+  <img src='https://img.shields.io/badge/.ENV-20232A.svg?style=for-the-badge&logo=dotenv&logoColor=yellow' alt='dotenv'/>
 
 - <h4> Versionamento </h4>
   <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
