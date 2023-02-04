@@ -10,6 +10,7 @@
 - 🌱 &nbsp; Aprendendo sobre Sequelize e React;
 - ✍️ &nbsp; Em busca de uma vaga de desenvolvedor front-back end ou fullstack Junior.
 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - <h4> Linguagens </h4>
