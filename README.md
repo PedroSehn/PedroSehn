@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando desenvolvimento web e mobile;
 - 🎓 &nbsp; Atualmente, estudando desenvolvimento web fullstack na Trybe;
 - 💼 &nbsp; Trabalhando em projetos pessoais que podem ser encontrados nesse github;
-- 🌱 &nbsp; Aprendendo sobre Sequelize e React;
+- 🌱 &nbsp; Aprendendo sobre Python e Data Mining;
 - ✍️ &nbsp; Em busca de uma vaga de desenvolvedor front-back end ou fullstack Junior.
 
 
