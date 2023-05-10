@@ -24,6 +24,7 @@
   <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='css3'/>
   <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' alt='node'/>
   <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='react'/>
+  img src='https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='angular'/>
   <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' alt='SASS'/>
 
 - <h4> Testes Unitários </h4>
