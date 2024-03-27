@@ -40,6 +40,7 @@
 - <h4> Versionamento </h4>
   <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white' alt='Git'/>
   <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'/>
+  <img src='https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white' alt='BitBucket'/>
 
 - <h4> Interfaces de Desenvolvimento </h4>
   <img src='https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white' alt='Visual Studio'/>
