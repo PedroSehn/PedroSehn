@@ -4,11 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando desenvolvimento web e mobile;
-- 🎓 &nbsp; Atualmente, desenvolvendo minhas habilidades como desenvolvedor frontend;
+- 🤔 &nbsp; Desbravando os horizontes do desenvolvimento Front-end;
+- 🎓 &nbsp; Atualmente, me expecializando em Agular e UX;
 - 💼 &nbsp; Trabalhando como desenvolvedor frontend em Angular e TypeScript;
-- 🌱 &nbsp; Aprendendo sobre Python e Data Mining;
-- ✍️ &nbsp; Em busca de uma vaga de desenvolvedor front e fullstack Junior.
+- ✍️ &nbsp; Em busca de oportunidades em front e fullstack Junior.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
